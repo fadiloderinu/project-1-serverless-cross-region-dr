@@ -1,6 +1,6 @@
-## **Lab: High Availability and Disaster Recovery with AWS Serverless Architecture**
+## **High Availability and Disaster Recovery with AWS Serverless Architecture**
 
-### **Lab Overview**
+### **Overview**
 This lab demonstrates how to build a highly available and disaster-resilient application using AWS serverless services. The solution includes:
 - **DynamoDB Global Tables** for cross-region replication.
 - **AWS Lambda** (Python) for serverless compute.
